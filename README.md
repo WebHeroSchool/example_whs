@@ -1,0 +1,1 @@
+test work in WebHeroSchool
